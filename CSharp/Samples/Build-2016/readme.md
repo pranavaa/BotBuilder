@@ -1,4 +1,4 @@
-One of the sessions presented at //Build 2016 was [Building a Conversational Bot: From 0 to 60](https://channel9.msdn.com/Events/Build/2016/B821) 
+Session presented at Global Azure Bootcamp Building a Conversational Bot using Bot Framework and Microsoft Azure 
 
 During this session we presented how to build a Bot using Visual Studio 2015 and the C# SDK.
 
